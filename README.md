@@ -6,15 +6,14 @@ I store my private projects in this github page, most of my repositories consist
 
 ### Projects
 
-- [HaxePluma](https://github.com/crowplexus/HaxePluma)
-- [Forever Engine](https://github.com/crowplexus/Forever-Engine)
+- [Forever Engine (Abandoned)](https://github.com/CrowPlexus-FNF/Forever-Engine)
 
 ---
 
 ### Archives
 
 - Friday Night Funkin': Forever Engine
-    - [Legacy](https://github.com/crowplexus/Forever-Engine-Legacy)
-    - [Hybrid](https://github.com/crowplexus/FNF-Forever-Engine)
+    - [Legacy](https://github.com/CrowPlexus-FNF/Forever-Engine-Legacy)
+    - [Hybrid](https://github.com/CrowPlexus-FNF/FNF-Forever-Engine)
 
 ---
