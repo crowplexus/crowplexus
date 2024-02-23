@@ -6,7 +6,7 @@ I store my private projects in this github page, most of my repositories consist
 
 ### Projects
 
-- [Forever Engine (Abandoned)](https://github.com/CrowPlexus-FNF/Forever-Engine)
+- [(NEW!) Forever Engine](https://github.com/crowplexus/Forever-Engine/tree/dev)
 
 ---
 
@@ -14,6 +14,6 @@ I store my private projects in this github page, most of my repositories consist
 
 - Friday Night Funkin': Forever Engine
     - [Legacy](https://github.com/CrowPlexus-FNF/Forever-Engine-Legacy)
-    - [Hybrid](https://github.com/CrowPlexus-FNF/FNF-Forever-Engine)
+    - [Hybrid](https://github.com/CrowPlexus-FNF/Forever-Engine-Hybrid)
 
 ---
